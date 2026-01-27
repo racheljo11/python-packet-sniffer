@@ -1,2 +1,11 @@
 # PRODIGY_TrackCode_5
-A Python-based packet sniffer that captures and analyzes network packets in a controlled environment. It extracts protocol and IP address details to understand network communication and packet analysis.
+#task Name
+Packet Sniffer Demonstration (Educational)
+#Description
+This task involves capturing and analyzing network packets to understand data transmission and network protocols.
+#Tools Used
+Python
+VS Code
+Scapy
+#Outcome
+Successfully captured and analyzed network packets in a controlled and authorized environment.
